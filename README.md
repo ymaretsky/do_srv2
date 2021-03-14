@@ -1,1 +1,1 @@
-# do_srv2
+# config-packet for DigitalOcean srv2
